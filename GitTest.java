@@ -10,4 +10,8 @@ public class GitTest{
 		return test;
 	}
 
+	public void setString(String newString){
+		test = newString;
+	}
+
 }
